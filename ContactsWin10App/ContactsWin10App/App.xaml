@@ -1,0 +1,13 @@
+﻿<Application
+    x:Class="ContactsWin10App.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ContactsWin10App"
+    RequestedTheme="Light">
+    <Application.Resources>
+        <x:String x:Key="ida:ClientID">d5dda17f-68f0-4e5a-90d9-d8ec4294e3eb</x:String>
+        <x:String x:Key="ida:AADInstance">https://login.microsoftonline.com/</x:String>
+        <x:String x:Key="ida:Domain">rzdemos.onmicrosoft.com</x:String>
+    </Application.Resources>
+
+</Application>

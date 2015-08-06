@@ -1,0 +1,1 @@
+C:\Projects\Windows\ContactsWin10App\ContactsWin10App\ContactsWin10App.csproj;x86
