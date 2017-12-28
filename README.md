@@ -53,3 +53,5 @@ The application is built as a Windows 10 UWP application, meaning it can run on 
 
 ## Windows 10 Mobile: ##
 ![Win10 Mobile](http://i.imgur.com/rfgKcUu.png)
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
