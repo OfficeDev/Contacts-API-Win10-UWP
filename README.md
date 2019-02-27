@@ -1,3 +1,15 @@
+---
+topic: sample
+products:
+- Office 365
+languages:
+- C#
+extensions:
+  contentType: samples
+  technologies:
+  - Azure AD
+  createdDate: 8/6/2015 8:49:22 AM
+---
 # Contacts-API-Win10-UWP
 This repository contains a Universal Windows Platform (UWP) application for Windows 10 that connects to the Office 365 APIs for Contacts using the new WebAccountManager framework.
 ## Environment Setup ##
